@@ -1,0 +1,25 @@
+# Node modules
+**/node_modules/
+
+# Environment variables
+**/.env
+
+# Build output
+frontend/build/
+backend/dist/
+
+# Logs
+**/logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
